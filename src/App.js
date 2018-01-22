@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import BasicExmaple from './exmaple/BasicExample';
+import AuthExample from './exmaple/AuthExample';
+import customLinkExample from './exmaple/customLinkExample';
+
 class App extends Component {
   render() {
     return (
@@ -18,4 +22,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default customLinkExample;
