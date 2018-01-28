@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import BasicExmaple from './exmaple/BasicExample';
-import AuthExample from './exmaple/AuthExample';
-import customLinkExample from './exmaple/customLinkExample';
+// import BasicExmaple from './exmaple/BasicExample';
+// import AuthExample from './exmaple/AuthExample';
+// import customLinkExample from './exmaple/customLinkExample';
 
 class App extends Component {
   render() {
@@ -22,4 +22,4 @@ class App extends Component {
   }
 }
 
-export default AuthExample;
+export default App;
