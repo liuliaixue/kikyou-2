@@ -22,4 +22,4 @@ class App extends Component {
   }
 }
 
-export default customLinkExample;
+export default AuthExample;
